@@ -8,3 +8,4 @@
 127.0.0.1 paynoom.com
 127.0.0.1 guideoflove.com
 127.0.0.1 blazely.org
+127.0.0.1 cognityx.io
