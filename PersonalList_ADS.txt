@@ -6,3 +6,5 @@
 127.0.0.1 nutriboostersonline.com
 127.0.0.1 wherewindsmeetgame.com
 127.0.0.1 paynoom.com
+127.0.0.1 guideoflove.com
+127.0.0.1 blazely.org
